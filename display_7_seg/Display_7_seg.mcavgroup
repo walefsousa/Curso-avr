@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\modo_captura\modo_captura.mcpav
+Project1=Display_7_seg.mcpav
+[ActiveProject]
+Index=1

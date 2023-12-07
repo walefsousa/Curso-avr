@@ -1,0 +1,13 @@
+main
+	TWI_Start
+		TWI_Status
+		SPI1_Write
+		UART1_Write
+	TWI_Write
+		SPI1_Write
+		UART1_Write
+	TWI_Stop
+	TWI_Read
+		SPI1_Write
+		UART1_Write
+	TWI_Init

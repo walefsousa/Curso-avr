@@ -1,0 +1,55 @@
+
+-- Cronograma do curso --
+
+
+Apresentação do curso e programas utilizados.
+
+Conhencendo os Microcontroladores AVR
+
+Primeiro programa "Hello World" - OK
+
+Utilizando botões simples e com flags - OK
+
+Display LCD - OK
+
+Canal analógico com display - OK
+
+ADC e LM35 - OK
+
+Dipslay 7 seguimento  - OK
+
+Multiplexação de display 7 seg
+
+EEPROM interna - OK
+
+Salvando dados de 8 e 16bits - OK
+
+Modo captura e frequencimetro - OK
+
+TIMER0  - OK
+
+PWM e botões
+
+PWM via registrador e biblioteca - OK
+
+PWM display LCD e canal analogico
+
+TIMER1  - OK
+
+Interrupção externa e por mudança no PORT - OK
+
+TIMER2 - OK
+
+Base de tempo de 1 segundo
+
+Modo contador externo com o TIMER1 - OK
+
+TWI i2c 
+
+Utilizando EERPOM externa e salvando parametros de 8 e 16Bits via i2c 
+
+Comunicção serial USART via registradores e via biblioteca - OK
+
+Transmissão e recepção obs: "apenas recepção"
+
+Aula Bonus >>>> módulo RF ou Bluettoth

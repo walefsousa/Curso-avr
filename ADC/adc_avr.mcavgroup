@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\usart_interrupt\interrupt_usart_avr.mcpav
+Project1=..\PWM\pwm_avr_registradores.mcpav
+Project2=adc_avr.mcpav
+[ActiveProject]
+Index=2

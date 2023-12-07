@@ -1,0 +1,3 @@
+main
+INTEXT1
+INTEXT0

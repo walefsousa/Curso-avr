@@ -1,0 +1,21 @@
+main
+	Lcd_Init
+		Delay_5500us
+		Delay_1us
+	Lcd_Cmd
+		Delay_1us
+		Delay_5500us
+		Delay_50us
+	Lcd_Out
+		Lcd_Cmd
+		Lcd_Chr_CP
+			Lcd_Cmd
+	pulso
+	IntToStr
+		WordToStr
+			Div_16x16_U
+	__CC2DW
+CAPTURA
+	abs
+	media
+	Div_16x16_S

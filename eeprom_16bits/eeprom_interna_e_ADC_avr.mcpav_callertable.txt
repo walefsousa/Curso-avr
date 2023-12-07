@@ -1,0 +1,27 @@
+main
+	Lcd_Init
+		Delay_5500us
+		Delay_1us
+	Lcd_Cmd
+		Delay_1us
+		Delay_5500us
+		Delay_50us
+	Lcd_Out
+		Lcd_Cmd
+		Lcd_Chr_CP
+			Lcd_Cmd
+	rd_eeprom
+		EEPROM_Read
+	value_old
+		IntToStr
+			WordToStr
+				Div_16x16_U
+		Lcd_Out
+	ADC_Read
+		ADC_Init
+		ADC_Get_Sample
+	IntToStr
+	wr_eeprom
+		EEPROM_Write
+		Div_16x16_S
+	__CC2DW

@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\ADC\adc_avr.mcpav
+Project1=..\adc_lm35_avr\termometro_avr.mcpav
+Project2=contador_avr.mcpav
+[ActiveProject]
+Index=0
