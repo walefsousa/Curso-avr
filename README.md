@@ -1,3 +1,3 @@
-Curos de Avr utilizando Micro C for Avr. 
+Curso Microcntrolador AVR utilizando Micro C for AVR. 
 
 Microcntrolador: ATmega3218p 
